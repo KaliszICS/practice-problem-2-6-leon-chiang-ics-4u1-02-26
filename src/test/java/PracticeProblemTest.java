@@ -191,7 +191,6 @@ void leastSwapsTest4() {
   // Enter code here
   double arr[] = {9, 7, 4, 2, 1, 0};
     String result = (String)method.invoke(null, arr);
-    String result = (String)method.invoke(null, arr);
   assertEquals("Selection", result);
 }
 
